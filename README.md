@@ -1,0 +1,2 @@
+# BelajarRepo
+ latihan menggunakan Github
